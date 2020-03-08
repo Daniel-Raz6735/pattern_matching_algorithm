@@ -1,5 +1,4 @@
-/*Daniel Raz 
-  308144328*/
+/*Daniel Raz*/
 
 #include "pattern_matching.h"
 #include <stdio.h>
