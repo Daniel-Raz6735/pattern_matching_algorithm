@@ -1,5 +1,4 @@
-/*Daniel Raz 
-  308144328*/
+/*Daniel Raz*/
 
 #include "slist.h"
 #include <stdio.h>
